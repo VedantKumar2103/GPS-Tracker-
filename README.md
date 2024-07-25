@@ -35,6 +35,10 @@ This project involves creating a GPS tracker using the NodeMCU ESP8266 and the N
 1. **Power the Setup**: Connect the NodeMCU to your computer via USB.
 2. **Open Serial Monitor**: In the Arduino IDE, open the Serial Monitor (Tools > Serial Monitor) and set the baud rate to 115200.
 3. **Verify GPS Data**: You should see GPS coordinates being printed on the Serial Monitor
+
+## Acknowledgments
+- **TinyGPS++**: Library for parsing GPS data.
+- **Arduino Community**: For the support and resources.
    
 #  Screenshots    
 ![Connection](https://github.com/user-attachments/assets/5735ca2f-d165-43cf-9bf1-dfe58ddec216)
